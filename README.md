@@ -1,0 +1,2 @@
+# Blockchain-Blocks-unit-drawers
+Blockchain / Blocks-unit-drawers / "Coin" \ is a block-drawer contains all the popular cryptocurrency the Hashing-b Financial Society Department Blockchain, the system is very simple each unit has its own formula which accept a single quota per block and all have functions useful to Hashing-b, in fact Hashing-b uses several type of block, control block, operating block and more, Hashing-b is an innovative society that likes to invent a new concept, Hashing-b Blockchain is one of a kind
